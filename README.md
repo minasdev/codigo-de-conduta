@@ -11,14 +11,14 @@ Nossa comunidade deseja que você:
 * **Seja respeitoso**: Nem sempre haverá concordância entre todos os participantes, mas isso não é desculpa para comportamentos e atitudes erradas. Como na vida, frustrações irão ocorrer ocasionalmente, só não podemos deixar que virem ataques pessoais. É importante lembrar que uma comunidade onde as pessoas se sentem desconfortáveis ou ameaçadas NÃO é produtiva.
 * **Seja cuidadoso com as palavras que utiliza**: Somos uma comunidade de profissionais, ou seja, nos conduzimos profissionalmente. Seja gentil com os outros. Não insulte ou desmotive outros participantes.
 * **Seja compreensível quando discordamos, e entenda o porque**: Discordâncias, sociais ou técnicas, acontecem o tempo todo. Sendo assim, é importante que resolvamos os desentendimentos e as diferentes opiniões de forma construtiva. Lembre-se que somos diferentes apenas como indivíduos, e que a força de nossa comunidade vem também da diversidade, ou seja, pessoas de uma ampla gama de origens. Sendo assim, diferentes pessoas as vezes têm diferentes perspectivas sobre as mesmas questões. Ser incapaz de entender o por que alguém detém um ponto de vista diferente do seu não significa que este alguém esteja errado. Não se esqueça de que é humano errar, mas culpar uns aos outros não nos leva a lugar nenhum. Concentre-se em resolver os problemas e aprender com os erros.
-* **Seja o líder/colaborador que você gostaria de ter**: Apenas com membros ativos, que por exemplo colaboram com sugestões ou até mesmo na moderação dos canais de comunicação, o [Minas Dev](https://minasdev.org/) será forte e atingirá todos os seus ideais.
-* **Seja conveniente**: Evite trazer assuntos irrelevantes para a comunidade, principalmente no [Slack do Minas Dev](https://slack.minasdev.org), e apenas se houver necessidade extrema e previamente contextualizada com os líderes do [Minas Dev](https://minasdev.org/), utilize-se de funcões como **@channel**, **@here** e **@everyone**.
+* **Seja o líder/colaborador que você gostaria de ter**: Apenas com membros ativos, que por exemplo colaboram com sugestões ou até mesmo na moderação dos canais de comunicação seguindo este documento como regra, o [Minas Dev](https://minasdev.org/) será forte e atingirá todos os seus ideais.
+* **Seja conveniente**: Evite trazer assuntos irrelevantes para a comunidade, principalmente no [Slack do Minas Dev](https://slack.minasdev.org), e apenas utilize-se de funcões como **@channel**, **@here** e **@everyone**, se houver necessidade extrema e previamente contextualizada com os líderes do [Minas Dev](https://minasdev.org/).
 * **Não seja um babaca**: Qualquer tipo de assédio ou comportamentos de exclusão não são aceitáveis, e isso inclui, mas não está limitado a:
   * Uso de linguagem violenta contra outras pessoas;
   * Piadas discriminatórias;
   * Exposição de sexo explícito ou de material violento;
   * Doxing: Exposição de informações pessoais de outras pessoas;
-  * Insultos pessoais, especialmente aqueles que se utilizam de termos racistas e sexistas;
+  * Insultos pessoais, especialmente aqueles que se utilizam-se de termos racistas e sexistas;
   * Atenção sexual desnecessária;
   * Apoio ou encoragamento de terceiros para prática de qualquer um dos comportamentos acima;
   * Falta de bom senso, ou seja, se alguém pedir para que você pare um assédio ou comportamento grosseiro, então pare.
