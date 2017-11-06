@@ -2,7 +2,7 @@
 
 Este código de conduta expressa nossas expectativas com relacão ao comportamento dos participantes diretos ou indiretos da comunidade criada pelo [Minas Dev](https://minasdev.org/), como também o caminho para reportar comportamentos contrários as propostas aqui apresentadas.
 
-Estamos comprometidos em prover uma comunidade que inspire e que seja receptiva para todos. Sendo assim, **qualquer um que violar as propostas do código de conduta será banido e exposto**, se assim for conveniente para A Comunidade.
+Estamos comprometidos em prover uma comunidade inspiradora e receptiva a todos. Sendo assim, **qualquer um que violar as propostas do código de conduta será banido e exposto**, se assim for conveniente para A Comunidade.
 
 Nossa comunidade deseja que você:
 
