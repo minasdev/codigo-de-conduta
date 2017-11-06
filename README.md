@@ -37,9 +37,9 @@ Embora esta lista não possa contemplar tudo, honramos explicitamente a diversid
 
 ### Reportando Problemas
 
-Se você presenciar ou for alvo de qualquer tipo de comportamento onde tenha se sentido ofendido, entre em contato com nossos líderes [Beto Muniz](https://twitter.com/obetomuniz) e/ou [Ana Soares](https://twitter.com/annemaxime) no Slack do Minas Dev através do link [slack.minasdev.org](https://slack.minasdev.org/).
+Se você presenciar ou for alvo de qualquer tipo de comportamento onde tenha se sentido ofendido dentro da nossa comunidade, entre em contato com nossos líderes [Beto Muniz](https://twitter.com/obetomuniz) e/ou [Ana Soares](https://twitter.com/annemaxime) no Slack do Minas Dev através do endereço [slack.minasdev.org](https://slack.minasdev.org/) ou nos envie um email para <a href="mailto:contato.minasdevorg@gmail.com">contato.minasdevorg@gmail.com</a>.
 
-E se você preferir mais discrição no caso, nos envie um email para <a href="mailto:contato.minasdevorg@gmail.com">contato.minasdevorg@gmail.com</a> ou até mesmo utilizando este [formulário](https://minas-dev.typeform.com/to/HaCE6w) para manter anonimato.
+Mas caso queira manter o anonimato, utilize este [formulário](https://minas-dev.typeform.com/to/HaCE6w) para contato.
 
 ### Créditos e Agradecimentos
 
