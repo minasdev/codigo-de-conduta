@@ -2,8 +2,6 @@
 
 Este código de conduta expressa nossas expectativas com relacão ao comportamento dos participantes diretos ou indiretos da comunidade criada pelo [Minas Dev](https://minasdev.org/), como também o caminho para reportar comportamentos contrários as propostas aqui apresentadas.
 
-Estamos comprometidos em prover uma comunidade inspiradora e receptiva a todos. Sendo assim, **qualquer um que violar as propostas do código de conduta será banido e exposto**, se assim for conveniente para A Comunidade.
-
 Nossa comunidade deseja que você:
 
 * **Seja amigável e paciente.**
@@ -34,6 +32,16 @@ Sempre que um participante cometer um erro, esperamos que ele se responsabilize 
 Embora esta lista não possa contemplar tudo, honramos explicitamente a diversidade em idade, gênero, identidade de gênero ou expressão, cultura, etnia, idioma, origem nacional, crenças políticas, profissão, raça, religião, orientação sexual, status socioeconômico, habilidade técnica e deficiência.
 
 **Não toleraremos discriminação com nenhuma das características mencionadas, e não nos limitamos a elas.**
+
+### Punições
+
+Estamos comprometidos em prover uma comunidade inspiradora e receptiva a todos. 
+
+Sendo assim, **qualquer um que violar as propostas do Código de Conduta será devidamente punido**.
+
+As punições vão desde a deleção de mensagens trocadas no [Minas Dev Slack](https://slack.minasdev.org) de cunho duvidoso ou fora de contexto sem aviso prévio até a exposição e banimento do(s) indivíduo(s) de todas as atividades diretamente relacionadas ao Minas Dev. 
+
+Lembrando que não nos limitamos apenas as punições mencionadas, sendo assim, e sem mais delongas, encarecidamente solicitamos respeito as propostas deste documento se assim for de seu interesse participar da nossa comunidade.
 
 ### Reportando Problemas
 
