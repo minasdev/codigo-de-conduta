@@ -1,6 +1,6 @@
 # Código de Conduta
 
-O Código de Conduta do Minas Dev expressa nossas expectativas com relacão ao comportamento dos participantes diretos ou indiretos da comunidade criada pelo [Minas Dev](https://minasdev.org/), punições em casos de desrespeito do mesmo e os caminhos para reportar comportamentos contrários as propostas apresentadas por este documento.
+O Código de Conduta do [Minas Dev](https://minasdev.org/) expressa nossas expectativas com relacão ao comportamento dos participantes diretos ou indiretos da comunidade criada pelo Minas Dev, punições em casos de desrespeito do mesmo e os caminhos para reportar comportamentos contrários as propostas apresentadas por este documento.
 
 Nossa comunidade deseja que você:
 
