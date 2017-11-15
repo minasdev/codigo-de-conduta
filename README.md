@@ -1,12 +1,12 @@
 # Código de Conduta
 
-Este código de conduta expressa nossas expectativas com relacão ao comportamento dos participantes diretos ou indiretos da comunidade criada pelo [Minas Dev](https://minasdev.org/), como também o caminho para reportar comportamentos contrários as propostas aqui apresentadas.
+O Código de Conduta do Minas Dev expressa nossas expectativas com relacão ao comportamento dos participantes diretos ou indiretos da comunidade criada pelo [Minas Dev](https://minasdev.org/), punições em casos de desrespeito do mesmo e os caminhos para reportar comportamentos contrários as propostas apresentadas por este documento.
 
 Nossa comunidade deseja que você:
 
 * **Seja amigável e paciente.**
 * **Seja receptivo**: Nos esforçamos para ser uma comunidade que acolhe e apoia pessoas de todas as origens e identidades. Isso inclui, mas não se limita a membros de qualquer raça, etnia, cultura, origem nacional, cor, status de imigração, classe social e econômica, nível educacional, sexo, orientação sexual, identidade e expressão de gênero, idade, tamanho, estado familiar, crença política, religião e habilidade mental e física.
-* **Seja respeitoso**: Nem sempre haverá concordância entre todos os participantes, mas isso não é desculpa para comportamentos e atitudes erradas. Como na vida, frustrações irão ocorrer ocasionalmente, só não podemos deixar que virem ataques pessoais. É importante lembrar que uma comunidade onde as pessoas se sentem desconfortáveis ou ameaçadas NÃO é produtiva.
+* **Seja respeitoso**: Nem sempre haverá concordância entre todos, porém isso não é desculpa para comportamentos e atitudes erradas. Como na vida, frustrações irão ocorrer ocasionalmente, só não podemos deixar que virem ataques pessoais. É importante lembrar que uma comunidade onde as pessoas se sentem desconfortáveis ou ameaçadas NÃO é produtiva.
 * **Seja cuidadoso com as palavras que utiliza**: Somos uma comunidade de profissionais, ou seja, nos conduzimos profissionalmente. Seja gentil com os outros. Não insulte ou desmotive outros participantes.
 * **Seja compreensível quando discordamos, e entenda o porque**: Discordâncias, sociais ou técnicas, acontecem o tempo todo. Sendo assim, é importante que resolvamos os desentendimentos e as diferentes opiniões de forma construtiva. Lembre-se que somos diferentes apenas como indivíduos, e que a força de nossa comunidade vem também da diversidade, ou seja, pessoas de uma ampla gama de origens. Sendo assim, diferentes pessoas as vezes têm diferentes perspectivas sobre as mesmas questões. Ser incapaz de entender o por que alguém detém um ponto de vista diferente do seu não significa que este alguém esteja errado. Não se esqueça de que é humano errar, mas culpar uns aos outros não nos leva a lugar nenhum. Concentre-se em resolver os problemas e aprender com os erros.
 * **Seja o líder/colaborador que você gostaria de ter**: Apenas com membros ativos, que por exemplo colaboram com sugestões ou até mesmo na moderação dos canais de comunicação seguindo este documento como regra, o [Minas Dev](https://minasdev.org/) será forte e atingirá todos os seus ideais.
@@ -21,7 +21,7 @@ Nossa comunidade deseja que você:
   * Apoio ou encoragamento de terceiros para prática de qualquer um dos comportamentos acima;
   * Falta de bom senso, ou seja, se alguém pedir para que você pare um assédio ou comportamento grosseiro, então pare.
 
-Este código de conduta com certeza não está completo. Ele serve apenas como tentativa de concentrar nossa compreensão de colaboratividade na nossa comunidade de acordo com os objetivos propostos pelo [Minas Dev Manifesto](https://github.com/minasdev/manifesto#minas-dev-manifesto).
+Este código de conduta com certeza não está completo. Ele serve apenas como tentativa de concentrar a nossa compreensão de colaboratividade em nossa comunidade de acordo com os objetivos propostos pelo [Minas Dev Manifesto](https://github.com/minasdev/manifesto#minas-dev-manifesto).
 
 ### Diversidade no Minas Dev
 
@@ -47,7 +47,7 @@ Lembrando que não nos limitamos apenas as punições mencionadas, sendo assim, 
 
 Se você presenciar ou for alvo de qualquer tipo de comportamento onde tenha se sentido ofendido dentro da nossa comunidade, entre em contato com nossos líderes [Beto Muniz](https://twitter.com/obetomuniz) e/ou [Ana Soares](https://twitter.com/annemaxime) no Slack do Minas Dev através do endereço [slack.minasdev.org](https://slack.minasdev.org/) ou nos envie um email para <a href="mailto:contato.minasdevorg@gmail.com">contato.minasdevorg@gmail.com</a>.
 
-Mas caso queira manter o anonimato, utilize este [formulário](https://minas-dev.typeform.com/to/HaCE6w) para contato.
+Caso queira manter o anonimato ao reportar um problema, utilize este [formulário](https://minas-dev.typeform.com/to/HaCE6w) para contato.
 
 ### Créditos e Agradecimentos
 
