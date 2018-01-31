@@ -15,7 +15,7 @@ Nossa comunidade deseja que você:
 * **NÃO faça posts promocionais em nossos canais de comunicação**: 
   * Se enxergar necessidade e coerência de realizar posts com conteúdos promocionais nos contextos de atuação do [Minas Dev](https://minasdev.org/), entre em contato imediatamente com os líderes do [Minas Dev](https://minasdev.org/).
   * Postagens promocionais sem o consentimento da liderança do [Minas Dev](https://minasdev.org/) serão enxergadas como SPAM e serão deletadas.
-  * **Ignorar esta conduta será passível de banimento e sem aviso** dos nossos canais de comunicação.
+  * **Ignorar esta conduta será passível de banimento, e sem aviso,** dos nossos canais de comunicação.
 * **NÃO seja babaca**: Qualquer tipo de assédio ou comportamentos de exclusão não são aceitáveis, e isso inclui, mas não está limitado a:
   * Uso de linguagem violenta contra outras pessoas;
   * Piadas discriminatórias;
