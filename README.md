@@ -10,7 +10,7 @@ Nossa comunidade deseja que você:
 * **Seja cuidadoso com as palavras que utiliza**: Somos uma comunidade de profissionais, ou seja, nos conduzimos profissionalmente. Seja gentil com os outros. Não insulte ou desmotive outros participantes.
 * **Seja compreensível quando discordamos, e entenda o porque**: Discordâncias, sociais ou técnicas, acontecem o tempo todo. Sendo assim, é importante que resolvamos os desentendimentos e as diferentes opiniões de forma construtiva. Lembre-se que somos diferentes apenas como indivíduos, e que a força de nossa comunidade vem também da diversidade, ou seja, pessoas de uma ampla gama de origens. Sendo assim, diferentes pessoas as vezes têm diferentes perspectivas sobre as mesmas questões. Ser incapaz de entender o por que alguém detém um ponto de vista diferente do seu não significa que este alguém esteja errado. Não se esqueça de que é humano errar, mas culpar uns aos outros não nos leva a lugar nenhum. Concentre-se em resolver os problemas e aprender com os erros.
 * **Seja o líder/colaborador que você gostaria de ter**: Apenas com membros ativos, que por exemplo colaboram com sugestões ou até mesmo na moderação dos canais de comunicação seguindo este documento como regra, o [Minas Dev](https://minasdev.org/) será forte e atingirá todos os seus ideais.
-* **Seja conveniente**: Evite trazer assuntos irrelevantes para a comunidade, principalmente no [Slack do Minas Dev](https://slack.minasdev.org), e apenas utilize-se de funções como **@channel**, **@here** e **@everyone**, se houver necessidade extrema e previamente contextualizada com os líderes do Minas Dev.
+* **Seja conveniente**: Evite trazer assuntos irrelevantes para a comunidade, principalmente no [Slack](https://minasdev.org/slack) e no [Telegram](https://t.me/minasdev) do [Minas Dev](https://minasdev.org/), e apenas utilize-se de funções como **@channel**, **@here** e **@everyone**, se houver necessidade extrema e previamente contextualizada com os líderes do Minas Dev.
 * **NÃO realize SPAM em nossos canais de comunicação.**
 * **NÃO faça posts promocionais em nossos canais de comunicação**: 
   * Se enxergar necessidade e coerência de realizar posts com conteúdos promocionais nos contextos de atuação do [Minas Dev](https://minasdev.org/), entre em contato imediatamente com os líderes do [Minas Dev](https://minasdev.org/).
@@ -44,13 +44,13 @@ Estamos comprometidos em prover uma comunidade inspiradora e receptiva a todos.
 
 Sendo assim, **qualquer um que violar as propostas do Código de Conduta será devidamente punido**.
 
-As punições vão desde a deleção de mensagens trocadas no [Minas Dev Slack](https://slack.minasdev.org) de cunho duvidoso ou fora de contexto sem aviso prévio até a exposição e banimento do(s) indivíduo(s) de todas as atividades diretamente relacionadas ao Minas Dev. 
+As punições vão desde a deleção de mensagens trocadas no [Minas Dev Slack](https://minasdev.org/slack) e/ou no [Minas Dev Telegram](https://t.me/minasdev) de cunho duvidoso ou fora de contexto sem aviso prévio até a exposição e banimento do(s) indivíduo(s) de todas as atividades diretamente relacionadas ao Minas Dev. 
 
 Lembrando que não nos limitamos apenas as punições mencionadas, sendo assim, e sem mais delongas, encarecidamente solicitamos respeito as propostas deste documento se assim for de seu interesse participar da nossa comunidade.
 
 ### Reportando Problemas
 
-Se você presenciar ou for alvo de qualquer tipo de comportamento onde tenha se sentido ofendido dentro da nossa comunidade, entre em contato com nosso líder [Beto Muniz](https://twitter.com/obetomuniz) e/ou representantes no Slack do Minas Dev através do endereço [slack.minasdev.org](https://slack.minasdev.org/) ou nos envie um email para <a href="mailto:contato.minasdevorg@gmail.com">contato.minasdevorg@gmail.com</a>.
+Se você presenciar ou for alvo de qualquer tipo de comportamento onde tenha se sentido ofendido dentro da nossa comunidade, entre em contato com nosso líder [Beto Muniz](https://twitter.com/obetomuniz) e/ou representantes no Slack do Minas Dev através do endereço [minasdev.org/slack](https://minasdev.org/slack) ou nos envie um email para <a href="mailto:contato.minasdevorg@gmail.com">contato.minasdevorg@gmail.com</a>.
 
 Caso queira manter o anonimato ao reportar um problema, utilize este [formulário](https://minas-dev.typeform.com/to/HaCE6w) para contato.
 
@@ -58,4 +58,4 @@ Caso queira manter o anonimato ao reportar um problema, utilize este [formulári
 
 Este código de conduta foi baseado no [Open Code of Conduct](https://github.com/todogroup/opencodeofconduct) e no [Twitter Code of Conduct](https://github.com/twitter/code-of-conduct). 
 
-Agradecimentos especiais pelo trabalho do [TODOGroup](http://todogroup.org/) e do [TwitterOSS](https://twitter.com/twitteross) pela criação da base deste Código de Conduta e pela sugestão do [Paulo Pires](https://github.com/paulohp) para criarmos um para o [Minas Dev](https://minasdev.org/).
+Agradecimentos especiais pelo trabalho do [TODOGroup](http://todogroup.org/) e do [TwitterOSS](https://twitter.com/twitteross) pela criação da base deste Código de Conduta e pela sugestão do Paulo Pires para criarmos um para o [Minas Dev](https://minasdev.org/).
